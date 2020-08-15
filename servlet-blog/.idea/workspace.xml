@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="servlet-blog:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:servlet-blog" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:student" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:student" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:stu-drom-sys" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bc4f973-299b-424c-aae3-012cb6dadae7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2f4f0260-9170-4c40-8e03-92104e826ed3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/blog/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/blog/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/blog/WEB-INF/classes/servlet/AbstractBaseServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/servlet/AbstractBaseServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servlet/AbstractBaseServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/servlet/AbstractBaseServlet.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="2f4f0260-9170-4c40-8e03-92104e826ed3" />
+    </checked>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\work\maven\M2Repository" />
+        <option name="userSettingsFile" value="C:\work\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fwoWY0XQAA3pnXK7bKYF0rk7dh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql.8&#10;mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="database.data.extractors.current.id" value="SQL Inserts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\servlet-blog" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.blog">
+    <configuration name="blog.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/db/blog.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="ff5458e1-fed7-4217-8ff2-5f70e1402229" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DBUtilTest.testConnection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="servlet-blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="util" />
+      <option name="MAIN_CLASS_NAME" value="util.DBUtilTest" />
+      <option name="METHOD_NAME" value="testConnection" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JSONUTILTest.t1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="servlet-blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="util" />
+      <option name="MAIN_CLASS_NAME" value="util.JSONUTILTest" />
+      <option name="METHOD_NAME" value="t1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="blog" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.54" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="servlet-blog:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/blog" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_servlet-blog" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="47951" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="servlet-blog:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.blog.sql" />
+        <item itemvalue="JUnit.DBUtilTest.testConnection" />
+        <item itemvalue="JUnit.JSONUTILTest.t1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bc4f973-299b-424c-aae3-012cb6dadae7" name="Default Changelist" comment="" />
+      <created>1596167019899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596167019899</updated>
+      <workItem from="1596167030056" duration="6822000" />
+      <workItem from="1596180245349" duration="6606000" />
+      <workItem from="1596188974583" duration="233000" />
+      <workItem from="1596189547734" duration="11049000" />
+      <workItem from="1596246452107" duration="14111000" />
+      <workItem from="1596272061327" duration="372000" />
+      <workItem from="1596273386321" duration="10535000" />
+      <workItem from="1597138549232" duration="844000" />
+      <workItem from="1597139423554" duration="1083000" />
+      <workItem from="1597140749517" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="JSONUTILTest_t1 - 2020.07.31 at 16h 01m 58s.xml">
+      <configuration name="JSONUTILTest.t1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JSONUTILTest_t1 - 2020.07.31 at 16h 30m 06s.xml">
+      <configuration name="JSONUTILTest.t1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DBUtilTest_testConnection - 2020.08.01 at 11h 41m 35s.xml">
+      <configuration name="DBUtilTest.testConnection" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DBUtilTest_testConnection - 2020.08.01 at 11h 58m 58s.xml">
+      <configuration name="DBUtilTest.testConnection" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="531" y="297" key="#Tomcat_Server" timestamp="1597138664179">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="531" y="297" key="#Tomcat_Server/0.0.1536.824@0.0.1536.824" timestamp="1597138664179" />
+    <state x="438" y="0" width="651" height="824" key="#blog" timestamp="1597139333845">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="453" y="67" key="#blog.sql" timestamp="1597140438919">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="453" y="67" key="#blog.sql/0.0.1536.824@0.0.1536.824" timestamp="1597140438919" />
+    <state x="438" y="0" width="651" height="824" key="#blog/0.0.1536.824@0.0.1536.824" timestamp="1597139333845" />
+    <state x="212" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597140354527">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="212" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1597140354527" />
+    <state x="546" y="319" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1597139360566">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="546" y="319" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1536.824@0.0.1536.824" timestamp="1597139360566" />
+    <state x="537" y="161" key="FileChooserDialogImpl" timestamp="1597140768237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="537" y="161" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597140768237" />
+    <state width="918" height="195" key="GridCell.Tab.0.bottom" timestamp="1597140507181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="918" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597140507181" />
+    <state width="918" height="195" key="GridCell.Tab.0.center" timestamp="1597140507181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="918" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597140507181" />
+    <state width="918" height="195" key="GridCell.Tab.0.left" timestamp="1597140507181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="918" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597140507181" />
+    <state width="918" height="195" key="GridCell.Tab.0.right" timestamp="1597140507181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="918" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597140507181" />
+    <state width="918" height="195" key="GridCell.Tab.1.bottom" timestamp="1597140507182">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="918" height="195" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597140507182" />
+    <state width="918" height="195" key="GridCell.Tab.1.center" timestamp="1597140507182">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="918" height="195" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1597140507182" />
+    <state width="918" height="195" key="GridCell.Tab.1.left" timestamp="1597140507181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="918" height="195" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1597140507181" />
+    <state width="918" height="195" key="GridCell.Tab.1.right" timestamp="1597140507182">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="918" height="195" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1597140507182" />
+    <state width="918" height="195" key="GridCell.Tab.2.bottom" timestamp="1597140507182">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="918" height="195" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597140507182" />
+    <state width="918" height="195" key="GridCell.Tab.2.center" timestamp="1597140507182">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="918" height="195" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1597140507182" />
+    <state width="918" height="195" key="GridCell.Tab.2.left" timestamp="1597140507182">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="918" height="195" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1597140507182" />
+    <state width="918" height="195" key="GridCell.Tab.2.right" timestamp="1597140507182">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="918" height="195" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1597140507182" />
+    <state x="337" y="235" key="Registry" timestamp="1597139534767">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="337" y="235" key="Registry/0.0.1536.824@0.0.1536.824" timestamp="1597139534767" />
+    <state x="238" y="0" key="SettingsEditor" timestamp="1597139458239">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="238" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597139458239" />
+  </component>
+</project>
